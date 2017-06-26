@@ -1,7 +1,6 @@
 ## PlainJS BeatMaker
 
-A simple and fun application to make beats.
+A simple and fun Vanilla JavaScript application to make beats.
 
-Live: [https://mmason33.github.io/](https://mmason33.github.io/)
-CodePen Demo: <https://codepen.io/mmason33/pen/mmZabV> 
+Live: [https://mmason33.github.io/](https://mmason33.github.io/JSbeatMaker/)
 
