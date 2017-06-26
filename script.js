@@ -15,5 +15,7 @@
 
   const keys = Array.from(document.querySelectorAll('.key'));
   keys.forEach(key => key.addEventListener('transitionend', removeTransition));
-  keys.forEach(key => key.addEventListener('touchstart', playSound));
+  // keys.forEach(key => key.addEventListener('touchstart', playSound));
   window.addEventListener('keydown', playSound);
+
+//NEED TO REFACTOR TO BE MOBILE FRIENDLY
